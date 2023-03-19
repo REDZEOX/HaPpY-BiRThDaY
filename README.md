@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/REDZEOX">
-    <a href="https://github.com/REDZEOX"><img src="https://media.tenor.com/DVbymBMiCtoAAAAC/omg-happy.gif" alt="RedzeoX" width="2050"/>
+    <a href="https://github.com/REDZEOX"><img src="https://media.tenor.com/gsDS_dFeWzkAAAAC/shikimoris-not-just-cute-shikimori.gif" alt="RedzeoX" width="2000"/>
 </h3>
 <div>
 
