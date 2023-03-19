@@ -1,6 +1,16 @@
-## Happy Birthday!!!
+<h1 align="center"> ✨ 〘 HAPPY BIRTHDAY 〙 ✨
 
-### special happy birthday in a special way.
+</div>
 
-#### [See it Live](https://REDZEOX.github.io/HaPpY-BiRThDaY/)
+<p align="center">
+<a href="https://github.com/REDZEOX">
+    <a href="https://github.com/REDZEOX"><img src="https://media.tenor.com/DVbymBMiCtoAAAAC/omg-happy.gif" alt="RedzeoX" width="2050"/>
+</h3>
+<div>
+
+<div align="left">
+
+### *_special happy birthday in a special way._*
+
+<a href="https://REDZEOX.github.io/HaPpY-BiRThDaY/" target="blank"><img src="https://img.shields.io/badge/Se it Live-000000?style=for-the-badge&logo=github&logoColor=white" height="25px"/></a>
 
