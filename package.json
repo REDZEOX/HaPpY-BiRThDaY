@@ -1,7 +1,7 @@
 {
-  "name": "happy-birthday",
+  "name": "HaPpY-BiRThDaY",
   "version": "1.0.0",
-  "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
+  "description": "An app that let's you say happy birthday.",
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/REDZEOX/HaPpY-BiRThDaY.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
+  "author": "REDZEOX",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/REDZEOX/HaPpY-BiRThDaY/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/REDZEOX/HaPpY-BiRThDaY#readme",
   "dependencies": {}
 }
