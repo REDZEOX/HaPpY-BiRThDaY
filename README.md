@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ 〘 HAPPY BIRTHDAY 〙 ✨
+<h1 align="center"> ✨ 〘 REDZEOX 〙 ✨
 
 </div>
 
