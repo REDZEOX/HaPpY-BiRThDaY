@@ -22,7 +22,7 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 
 <img src="img/Rainbow.gif" width="100%">
 
-<div align="left">
+
 ### *_special happy birthday in a special way._*
 
 <p align="center">
