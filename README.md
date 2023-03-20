@@ -23,10 +23,10 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 <img src="img/Rainbow.gif" width="100%">
 
 <div align="left">
-
 ### *_special happy birthday in a special way._*
 
-<a href="https://REDZEOX.github.io/HaPpY-BiRThDaY/" target="blank"><img src="https://img.shields.io/badge/Se it Live-000000?style=for-the-badge&logo=github&logoColor=white" height="30px"/></a>
+<p align="center">
+<a href="https://REDZEOX.github.io/HaPpY-BiRThDaY/" target="blank"><img src="https://img.shields.io/badge/Se it Live-000000?style=for-the-badge&logo=github&logoColor=white" height="20px"/></a>
 
 <a><img src="img/Gradients.png" alt="RedzeoX" width="100%">
 
