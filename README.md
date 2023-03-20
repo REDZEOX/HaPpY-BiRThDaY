@@ -28,13 +28,6 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 
 <a href="https://REDZEOX.github.io/HaPpY-BiRThDaY/" target="blank"><img src="https://img.shields.io/badge/Se it Live-000000?style=for-the-badge&logo=github&logoColor=white" height="30px"/></a>
 
-</div>
-
-<a><img src="img/20230305_220550.png" alt="RedzeoX" width="100%">
+<a><img src="img/Gradients.png" alt="RedzeoX" width="100%">
 
 <a><img src="img/Rainbow.gif" width="100%">
-
-
-
-
-    
