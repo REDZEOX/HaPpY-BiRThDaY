@@ -1,7 +1,7 @@
-<img src="img/Rainbow.gif" width="100%">
+<img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
 <p align="center">
-<img src="img/RedzeoX.png" alt="RedzeoX" width="2050"/>
+<img src="https://i.ibb.co/M6NG83v/RedzeoX.png" alt="RedzeoX" width="2050"/>
 </div>
 
 <h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴢᴇᴏꭗ <img
@@ -28,6 +28,6 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 <p align="center">
 <a href="https://REDZEOX.github.io/HaPpY-BiRThDaY/" target="blank"><img src="https://img.shields.io/badge/Se it Live-000000?style=for-the-badge&logo=github&logoColor=white" height="20px"/></a>
 
-<a><img src="img/Gradients.png" alt="RedzeoX" width="100%">
+<a><img src="https://i.ibb.co/KzgLzP8/Gradients.png" alt="RedzeoX" width="100%">
 
-<a><img src="img/Rainbow.gif" width="100%">
+<a><img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
